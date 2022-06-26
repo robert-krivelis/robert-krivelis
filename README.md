@@ -7,8 +7,8 @@ I'm looking for roles in data engineering, data analyst, and machine vision posi
 In my spare time, find me doing or playing:
 - Basketball (I do even hoop, bro) 
 - Yoga (more fun than you'd think!)
-- Starcraft 2 (Masters Zerg main 💪)
-- Factorio (Elon, I'll show you a Gigafactory looks like 😤)
+- Starcraft 2 (Masters Zerg main)
+- Factorio (Elon, I'll show you a Gigafactory looks like)
 - League of Legends (I play yasuo... sorry)
 
 
