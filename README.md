@@ -4,7 +4,7 @@ website: https://robert.krivelis.com/
 
 I'm looking for roles in data engineering, data analyst, and machine vision positions.
 
-In my spare time, find me doing or playing:
+In my spare time, you can probably find me doing or playing:
 - Basketball (I do even hoop, bro) 
 - Yoga (more fun than you'd think!)
 - Starcraft 2 (Masters Zerg main)
