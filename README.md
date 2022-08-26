@@ -2,7 +2,7 @@ website: https://robert.krivelis.com/
 
 👋 Hi, I’m @robert-krivelis. 
 
-I'm looking for roles in data engineering, data analyst, and machine vision positions.
+I'm currently working as a data engineer at RBC! :)
 
 I've spent a lot of time creating projects with these languages, frameworks, and technologies:
 - Python
